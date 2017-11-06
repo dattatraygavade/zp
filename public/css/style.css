@@ -1,0 +1,47 @@
+.error{
+    color:red;
+}
+.color_box_pb{
+    height:50px;
+    width:50px;
+    background-color:#2d4859;
+    color:#2d4859;
+    margin-left: 60px;
+}
+.color_box_deputy{
+    height:50px;
+    width:50px;
+    background-color:#fe7211;
+    color:#fe7211;
+    margin-left: 50px;
+}
+.color_box_tczp{
+    height:50px;
+    width:50px;
+    background-color:#7ad689;
+    color:#7ad689;
+    margin-left: 40px;
+}
+.color_box_tctaluka{
+    height:50px;
+    width:50px;
+    background-color:#128376;
+    color:#128376;
+    margin-left: 30px;
+}
+.color_box_azp{
+    height:50px;
+    width:50px;
+    background-color:#8598c5;
+    color:#8598c5;
+    margin-left: 71px;
+} 
+.color_box_ataluka{
+    height:50px;
+    width:50px;
+    background-color:#3d177a;
+    color:#3d177a;
+    margin-left: 62px;
+}
+
+
